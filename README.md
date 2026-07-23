@@ -15,12 +15,12 @@ A simple and responsive Flutter Dashboard UI created for practice purposes.
 
 **Main Dashboard**
 <div align="center">
-  <img src="./dashboard.png" width="300" alt="Main Dashboard">
+  <img src="./dashboard.png" width="320" alt="Main Dashboard">
 </div>
 
 **With Drawer**
 <div align="center">
-  <img src="./dashboard_ui.png(1).jpeg" width="300" alt="Dashboard Drawer">
+  <img src="./dashboard_ui.png(1).jpeg" width="320" alt="Dashboard with Drawer">
 </div>
 
 ## Project Structure
