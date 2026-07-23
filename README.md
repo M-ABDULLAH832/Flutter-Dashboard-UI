@@ -11,6 +11,10 @@ A simple and responsive Flutter Dashboard UI created for practice purposes.
 - Clean and Simple Design
 - Material Design Widgets
 
+- ## Screenshot
+
+![Dashboard UI](screenshots/dashboard.png)
+
 ## Project Structure
 
 ```
